@@ -10,6 +10,7 @@ body {
 
 main {
     flex: 1;
+    margin-top: 2rem;
 }
 
 
@@ -35,6 +36,7 @@ footer {
     background-color: #222;
     color: #eee;
     padding: 2rem 1rem;
+    margin-top: 2rem;
 }
 
 .f-info {
