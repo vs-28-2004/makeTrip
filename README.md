@@ -1,38 +1,27 @@
 # 🏠 Airbnb Clone
 
-A full-stack Airbnb Clone web application that allows users to browse, search, list, and book rental properties. This project replicates the core functionality of Airbnb while providing a modern and responsive user experience.
+A full-stack Airbnb-inspired web application where users can browse, create, and manage property listings.
 
 ## 🚀 Features
-
-- User Authentication (Sign Up / Login / Logout)
-- Property Listings
-- Property Details Page
-- Search and Filter Properties
-- Create, Edit, and Delete Listings
-- Image Upload Support
-- Booking System
+- User Authentication
+- Create, Edit & Delete Listings
+- Property Search
+- Image Uploads
 - Responsive Design
-- User Profile Management
+- Booking System
 
 ## 🛠️ Tech Stack
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript
+- HTML, CSS, JavaScript
 - Bootstrap
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
+- Node.js & Express.js
 - MongoDB
-
-### Other Tools
 - EJS
-- Cloudinary (Image Storage)
-- Passport.js (Authentication)
-- Map Integration
+- Cloudinary
 
-## 📂 Project Structure
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/your-username/airbnb-clone.git
+cd airbnb-clone
+npm install
+npm start
